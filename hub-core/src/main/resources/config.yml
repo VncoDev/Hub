@@ -1,0 +1,14 @@
+server-config:
+  online-status: '&aOnline'
+  offline-status: '&cOffline'
+  list:
+    survival: '127.0.0.1:25567'
+
+scoreboard:
+  enabled: true
+  title: '&6&lServer&8┃&rHub'
+  lines:
+    - '&7&m----------------------'
+    - '&6Name&7: &r%user_name%'
+    - '&6Global&7: &r%global_players%'
+    - '&7&m----------------------'

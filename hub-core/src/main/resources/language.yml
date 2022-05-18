@@ -1,0 +1,27 @@
+only-player: '&cYou cannot run this command from the console.'
+user-not-found: '&cUser &e%target% &cnot found.'
+
+chat-format:
+  public: '%user_name%: %message%'
+  to: '&7(To %target_name%) %message%'
+  from: '&7(From %target_name%) %message%'
+
+welcome-message:
+  - '&7&m---------------------------------------------'
+  - 'Welcome &7%user_name% &rto &6&lServer'
+  - ''
+  - '&6&lDiscord&7: &rdiscord.server.com'
+  - '&6&lTeamSpeak&7: &rts.server.com'
+  - '&6&lStore&7: &rstore.server.com'
+  - ''
+  - 'Use the compass to navigate in our servers.'
+  - '&7&m---------------------------------------------'
+
+spawn:
+  not-found: '&cSpawn location not found.'
+  teleported: '&aSuccessfully teleported to spawn.'
+  set: '&aSuccessfully set spawn location.'
+
+scoreboard:
+  enabled: '&aScoreboard enabled'
+  disabled: '&cScoreboard disabled'

@@ -1,0 +1,17 @@
+menus:
+  server-selector:
+    title: '&6&lServer Selector'
+    type: 'DEFAULT'
+    size: 3
+    buttons:
+      14:
+        name: '&4&Survival'
+        material: '46'
+        glow: false
+        amount: 1
+        lore:
+          - '&rClick here for go to survival.'
+        settings:
+          permission: ''
+          actions:
+            - 'user-connect-server:survival'

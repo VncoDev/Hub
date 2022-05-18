@@ -1,0 +1,5 @@
+author: OldVnco
+name: Hub
+main: dev.vnco.hub.Hub
+version: ${project.version}
+description: Custom HubCore | By @OldVnco / Vnco#1315

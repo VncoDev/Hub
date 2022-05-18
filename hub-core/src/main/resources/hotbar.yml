@@ -1,0 +1,12 @@
+hotbar-items:
+  5:
+    name: '&6&lServer Selector'
+    material: '345'
+    glow: false
+    amount: 1
+    lore:
+      - '&rClick here for open server selector.'
+    settings:
+      permission: ''
+      actions:
+        - ''
